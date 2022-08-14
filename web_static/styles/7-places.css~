@@ -1,0 +1,4 @@
+.container .places {
+    potition: absolute;
+    top: 0;
+}
